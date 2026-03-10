@@ -77,6 +77,11 @@ Si el **Master** falla, un **Backup** toma el control automáticamente.
 - Puede usarse en redes mixtas
 
 ---
+# TOPOLOGIAS
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/75db52d8-8d58-4c23-ae48-1759bf58be12" />
+
+---
 
 # Conclusión
 
